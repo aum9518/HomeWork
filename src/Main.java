@@ -4,9 +4,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
-
-        while (true){
+        //TODO HomeWork#11
+        /*while (true){
             System.out.println("Аккаунтарды коруу учун * басыныз.");
             char a = new Scanner(System.in).next().charAt(0);
             if (a=='*'){
@@ -94,7 +93,9 @@ public class Main {
                     }
                 }
             }
-        }
+        }*/
+        //TODO HomeWork#12
+
 
 
     }
